@@ -1,2 +1,2 @@
 # SCS_Analysis
-Repository for analysis code accompanying Self-Calibrating SeapHOx manuscript by Bresnahan et al. (*in prep*).
+Repository for analysis code accompanying our Open Access article: [Bresnahan et al. (2021) Autonomous in situ calibration of ion-sensitive field effect transistor pH sensors](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10410).
